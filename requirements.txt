@@ -1,0 +1,11 @@
+chromadb
+openai
+boto3
+langchain
+unstructured
+markdown
+tiktoken
+langchain[docarray]
+pandas
+jinja2
+openpyxl
