@@ -2,6 +2,7 @@ chromadb
 openai
 boto3
 langchain
+langsmith
 unstructured
 markdown
 tiktoken
@@ -9,3 +10,4 @@ langchain[docarray]
 pandas
 jinja2
 openpyxl
+llama_index
