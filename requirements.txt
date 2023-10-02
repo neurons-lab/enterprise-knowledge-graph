@@ -11,3 +11,4 @@ pandas
 jinja2
 openpyxl
 llama_index
+sentence_transformers
